@@ -3,27 +3,31 @@ export default {
             {
                 id: 1,
                 name: "The Lovers",
-                value: 7        
+                value: 7,
+                on: true,
+                image: "https://www.alittlesparkofjoy.com/wp-content/uploads/2020/10/the-sun-card-tarot-reading.jpg"      
             },
             {
                 id: 2,
                 name: "Death",
-                value: 7        
+                value: 7,
+                on: false,
             },
             {
                 id: 3,
                 name: "The World",
-                value: 7        
+                value: false,       
             },
             {
                 id: 4,
                 name: "The Magician",
-                value: 7        
+                value: false        
             },
             {
                 id: 5,
                 name: "The Hanged Man",
-                value: 7        
+                value: 7,
+                on: true      
             },
             {
                 id: 6,
